@@ -1,0 +1,39 @@
+{
+    "run": {
+        "@path": "/.c9/runners",
+        "configs": {
+            "json()": {},
+            "@inited": true
+        }
+    },
+    "ace": {
+        "@newLineMode": "unix",
+        "@tabSize": 2,
+        "@useSoftTabs": true,
+        "@guessTabSize": true
+    },
+    "find.nak": {
+        "@searchLimit": 100
+    },
+    "language": {
+        "@warnLevel": "info",
+        "@instanceHighlight": true,
+        "@undeclaredVars": true,
+        "@eslintrc": true,
+        "@semi": true,
+        "@unusedFunctionArgs": false
+    },
+    "build": {
+        "@path": "/.c9/builders",
+        "@saveall": true,
+        "@builder": "auto"
+    },
+    "general": {
+        "@stripws": false
+    },
+    "share": {
+        "@preview": false,
+        "@app": false,
+        "@useOwnerSettings": false
+    }
+}
